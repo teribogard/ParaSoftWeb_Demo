@@ -1,4 +1,4 @@
-## ParaBank Website Automation Project
+## ParaBank Demo Website Automation 
 
 ### UI Testing 
 
