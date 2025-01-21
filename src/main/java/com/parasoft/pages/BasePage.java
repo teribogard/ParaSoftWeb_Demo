@@ -7,4 +7,6 @@ public abstract class BasePage {
     public BasePage(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
+
+    //TODO add web elements from main page
 }
